@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;Turning+Ideas+Into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+Computer+Engineering+(Data+Science)+%40+SLRTCE;Building+Applied+AI+for+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=rangeshsha-Rookie&color=0e75b6&style=flat-square&label=Profile+Views" />
 
@@ -11,31 +11,47 @@
 
 ---
 
-## 👋 Introduction
+## 👋 Who I Am
 
-Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student from Navi Mumbai, India 🇮🇳, building real-world solutions at the intersection of **AI, data analytics, and full-stack development**. I love hackathons, open source, and turning complex problems into clean products.
+I'm **Rangesh Gupta** — a first-year B.E. Computer Engineering (Data Science) student at SLRTCE, Navi Mumbai 🇮🇳, building real-world AI systems at the intersection of **machine learning, data analytics, blockchain, and full-stack development**.
 
-🌐 **Portfolio:** [rangeshgupta.dev](https://rangeshgupta.dev) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/rangesh-gupta](https://linkedin.com/in/rangesh-gupta)
+I don't just learn technologies — I apply them to real problems. My projects span UPI fraud detection, multi-agent AI orchestration, supply chain transparency, and health tracking — all shipped and deployed.
+
+> 🔬 **Currently targeting research internships** in AI/ML, optimization, and data-driven systems.
+
+🌐 **Portfolio:** [rangeshgupta.dev](https://rangeshgupta.dev) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/rangesh-gupta](https://linkedin.com/in/rangesh-gupta) &nbsp;|&nbsp; 📧 [rengnavdev@gmail.com](mailto:rengnavdev@gmail.com)
 
 ---
 
-## 💫 About Me
+## 💫 At a Glance
 
 | | |
 |---|---|
-| 🎓 **Education** | B.E. Computer Engineering (Data Science) · SLRTCE, Navi Mumbai (2025–2029) |
-| 🏆 **Achievement** | Runner-Up @ JARVIS 2025 Hackathon · 2nd among 40+ teams |
+| 🎓 **Education** | B.E. Computer Engineering (Data Science) · SLRTCE, Navi Mumbai · 2025–2029 |
 | 🌐 **Ambassador** | Google Student Ambassador 2026 · Gemini AI Trials Program |
 | 🎪 **Ambassador** | Veteran College Ambassador · Techfest IIT Bombay (2nd term) |
-| 📘 **In Progress** | Microsoft Learn Student Ambassador (MLSA) |
+| 🏆 **Hackathon** | Runner-Up @ JARVIS 2025 · 2nd of 40+ teams |
+| 🔬 **Research Interest** | Applied ML · Optimization · Supply Chain AI · Fraud Detection Systems |
 | 📍 **Location** | Navi Mumbai, Maharashtra, India |
 
 ```text
-🔭 Building   →  AI multi-agent systems & data analytics dashboards
-🌱 Learning   →  Google AI Studio · Advanced SQL · MLOps · DevOps
-💬 Ask me     →  Python · TypeScript · Blockchain · Full-Stack Dev
+🔭 Building   →  Applied AI systems for fraud detection & supply chain optimization
+🌱 Learning   →  MLOps · Advanced SQL · Google AI Studio · Research Methodology
+💬 Ask me     →  Python · TypeScript · Blockchain · Multi-Agent AI · Data Analytics
 ⚡ Fun fact   →  Won art competitions before writing my first line of code 🎨
 ```
+
+---
+
+## 🚀 Featured Projects
+
+| 🗂️ Project | 📝 What It Does | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| 🛡️ **PhishGuard India v2.0** | AI-powered UPI fraud detection SOC platform — 17-signal Titan Engine, sub-200ms threat scoring, Polygon blockchain evidence logging, Chrome Extension MV3 | Python · Streamlit · MongoDB · Polygon | [View ↗](https://github.com/rangeshsha-Rookie/PhishGuard-India-v2-UPI-Fraud-Detection_Javris-2.0) |
+| 🤖 **AUTC Neural Orchestrator** | Multi-agent AI system auto-routing queries across 6 specialized agents (science, health, tech, business, education, accessibility) using Gemini 2.5 Flash — 70% reduction in manual delegation | TypeScript · React · Vite · Gemini API | [View ↗](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrat) |
+| 🚚 **LogiChain360** | Blockchain-integrated logistics platform for real-time shipment tracking, tamper-proof delivery milestones, and supply chain transparency | JavaScript · Polygon Blockchain | [View ↗](https://github.com/rangeshsha-Rookie/Logichain360) |
+| 💬 **ChittSathi** | Real-time interactive web application with ML integration, WebRTC, and MongoDB — built for SIH 2025 context | JavaScript · TensorFlow · MongoDB · WebRTC | [Live ↗](https://chitt-sathi.vercel.app) |
+| 💪 **DailyDost** | Full-stack habit & health tracker with 10 modules, secure auth, and 99.9% demo uptime — built in 24 hrs at JARVIS 2025 Hackathon | React · Node.js · MongoDB | 🏆 Runner-Up |
 
 ---
 
@@ -43,35 +59,23 @@ Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student f
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,c,cpp,html,css,php&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,c,cpp,html,css&perline=9" />
 </p>
 
 **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,fastapi,tailwind,angular,flutter,vite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite&perline=7" />
 </p>
 
 **Cloud, DevOps & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,azure,aws,firebase,vercel,docker,kubernetes,mongodb,mysql,supabase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=gcp,azure,firebase,vercel,docker,mongodb,mysql&perline=7" />
 </p>
 
 **AI, Design & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,figma,notion,github,git,arduino,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,figma,github,git,linux,vscode&perline=6" />
 </p>
-
----
-
-## 🚀 Top Projects
-
-| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|---|---|---|---|
-| 🛡️ **PhishGuard India v2.0** | AI-powered UPI fraud detection SOC platform with Polygon blockchain evidence logging & 17-feature Titan Engine | Python · MongoDB · Streamlit · Vercel | [Live ↗](https://phishguard-india.streamlit.app) |
-| 🤖 **AUTC Neural Orchestrator** | 6-agent AI system auto-routing queries to specialized agents with sub-second latency via Gemini 2.5 Flash | TypeScript · React · Vite · Gemini API | [GitHub ↗](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrator) |
-| 💪 **DailyDost** | Full-stack habit & health tracker built in 24 hrs at JARVIS 2025 Hackathon — Runner-Up | React · Node.js · MongoDB | 🏆 Runner-Up |
-| 💬 **ChittSathi** | Interactive real-time web application | JavaScript · Vercel | [Live ↗](https://chitt-sathi.vercel.app) |
-| 🎨 **3D Portfolio** | Interactive personal portfolio with 3D elements | TypeScript · Vite · CSS | [GitHub ↗](https://github.com/rangeshsha-Rookie/3D-Portfolio-) |
 
 ---
 
@@ -105,7 +109,7 @@ Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student f
 
 ---
 
-## 🐍 Snake Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -116,26 +120,6 @@ Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student f
 </picture>
 
 </div>
-
----
-
-## 🔔 Recent Activity
-
-- 🚀 Pushed enterprise README update to **[PhishGuard India v2.0](https://github.com/rangeshsha-Rookie/Ramsethi_Rangesh_Javris-2.0)** · Apr 14, 2026
-- 🔧 Updated **[ChittSathi](https://github.com/rangeshsha-Rookie/ChittSathi)** · Apr 10, 2026
-- 🛠️ Committed to **[Hackathon-The-Invasion](https://github.com/rangeshsha-Rookie/Hackathon-The-Invasion)** · Apr 4, 2026
-- 🎨 Built **[3D Portfolio](https://github.com/rangeshsha-Rookie/3D-Portfolio-)** · Mar 28, 2026
-- 🤖 Released **[AUTC Neural Orchestrator](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrator)** · Dec 12, 2025
-
-> 💡 Add the [GitHub Activity README Action](https://github.com/jamesgeorge007/github-activity-readme) to auto-update this section on every push.
-
----
-
-## ✍️ Latest Blog Posts
-
-> I share insights on **LinkedIn** — follow along for posts on AI, data analytics, and hackathon learnings.
-
-- 📌 Connect on LinkedIn: [linkedin.com/in/rangesh-gupta](https://linkedin.com/in/rangesh-gupta)
 
 ---
 
@@ -174,18 +158,13 @@ Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student f
 | J.P. Morgan Software Engineering Simulation | Forage | Oct 2025 |
 | Deloitte Australia Data Analytics Simulation | Forage | Oct 2025 |
 | Generative AI Mastermind | Outskill | Sep 2025 |
-| Diploma in Graphics & Automation (DCGA) | Disha Computer Institute | Feb 2025 |
-| Fundamentals of Digital Marketing | Google | May 2023 |
 | Applications of ML in Urban Studies | IIRS, ISRO | Jun 2023 |
 
 ---
 
 <div align="center">
 
-### ✍️ Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-*"Your GitHub profile is your developer landing page — make it count."*
+*"Build things that matter. Ship them. Iterate."*
 
 </div>
 
