@@ -1,11 +1,18 @@
+<!-- Open to Work Banner — recruiter-visible in 2 seconds -->
+<div align="center">
+
+[![Open to Internships](https://img.shields.io/badge/🔬%20Open%20to-Research%20%26%20Analyst%20Internships-brightgreen?style=for-the-badge)](mailto:rengnavdev@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Navi%20Mumbai%2C%20India-blue?style=for-the-badge)](https://github.com/rangeshsha-Rookie)
+[![Profile Views](https://komarev.com/ghpvc/?username=rangeshsha-Rookie&color=0e75b6&style=for-the-badge&label=Profile+Views)](https://github.com/rangeshsha-Rookie)
+
+</div>
+
 <!-- Capsule Render Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c8ff,100:7928ca&height=200&section=header&text=Rangesh%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Data%20Analyst%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+Computer+Engineering+(Data+Science)+%40+SLRTCE;Building+Applied+AI+for+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=rangeshsha-Rookie&color=0e75b6&style=flat-square&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+Computer+Engineering+(Data+Science)+%40+SLRTCE;Building+Applied+AI+for+Real-World+Problems+🚀" alt="Typing SVG" />
 
 </div>
 
