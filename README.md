@@ -86,7 +86,7 @@ First-year B.E. CMPN @ SLRTCE, Navi Mumbai 🇮🇳 · Open to research internsh
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rangeshsha-Rookie/rangeshsha-Rookie/main/output/github-metrics.svg" alt="GitHub Metrics" />
+<img src="https://streak-stats.demolab.com?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
