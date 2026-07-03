@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+CMPN+%40+SLRTCE+%7C+Class+of+2029;Building+Applied+AI+for+Real+Problems+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%26+Data+Analyst;Google+Student+Ambassador+2026;B.E.+CMPN+%40+SLRTCE+%7C+2029;Full-Stack+%26+Blockchain+Dev+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -120,9 +120,24 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/rangeshsha-Rookie?style=for-the-badge&color=gold&logo=github&label=Total+Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frangeshsha-Rookie&query=%24.public_repos&style=for-the-badge&color=0e75b6&logo=github&label=Public+Repos)
-![Followers](https://img.shields.io/github/followers/rangeshsha-Rookie?style=for-the-badge&color=7928ca&logo=github&label=Followers)
+<a href="https://github.com/users/rangeshsha-Rookie/achievements/quickdraw">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/users/rangeshsha-Rookie/achievements/pull-shark">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/users/rangeshsha-Rookie/achievements/pair-extraordinaire">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rangeshsha-Rookie?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" title="Starstruck" />
+</a>
+
+<br/><br/>
+<a href="https://github.com/rangeshsha-Rookie?tab=achievements">View all achievements ↗</a>
 
 </div>
 
