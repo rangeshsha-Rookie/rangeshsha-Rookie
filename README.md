@@ -90,38 +90,11 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=3600&exclude_repo=" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/users/rangeshsha-Rookie/achievements/quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw 🤠" title="Quickdraw — Closed an issue or PR within 5 min of opening" />
-</a>
-
-<br/>
-<sub>🤠 <b>Quickdraw</b> — Closed an issue or pull request within 5 minutes of opening</sub>
 <br/><br/>
-<a href="https://github.com/rangeshsha-Rookie?tab=achievements">🏅 View all achievements</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rangeshsha-Rookie&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
