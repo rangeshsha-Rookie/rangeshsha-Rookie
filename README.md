@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+Computer+Engineering+(Data+Science)+%40+SLRTCE;Building+Applied+AI+for+Real-World+Problems+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+Computer+Engineering+(Data+Science)+%40+SLRTCE;Building+Applied+AI+for+Real-World+Problems+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -116,7 +116,9 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rangeshsha-Rookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/rangeshsha-Rookie)
+<a href="https://github.com/rangeshsha-Rookie">
+  <img src="https://github-profile-trophy.vercel.app/?username=rangeshsha-Rookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Trophies" />
+</a>
 
 </div>
 
