@@ -55,10 +55,10 @@ I don't just learn technologies — I apply them to real problems. My projects s
 | 🗂️ Project | 📝 What It Does | 🛠️ Stack | 🔗 |
 |---|---|---|---|
 | 🛡️ **PhishGuard India v2.0** | AI-powered UPI fraud detection SOC platform — 17-signal Titan Engine, sub-200ms threat scoring, Polygon blockchain evidence logging, Chrome Extension MV3 | Python · Streamlit · MongoDB · Polygon | [View ↗](https://github.com/rangeshsha-Rookie/PhishGuard-India-v2-UPI-Fraud-Detection_Javris-2.0) |
-| 🤖 **AUTC Neural Orchestrator** | Multi-agent AI system auto-routing queries across 6 specialized agents (science, health, tech, business, education, accessibility) using Gemini 2.5 Flash — 70% reduction in manual delegation | TypeScript · React · Vite · Gemini API | [View ↗](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrat) |
-| 🚚 **LogiChain360** | Blockchain-integrated logistics platform for real-time shipment tracking, tamper-proof delivery milestones, and supply chain transparency | JavaScript · Polygon Blockchain | [View ↗](https://github.com/rangeshsha-Rookie/Logichain360) |
-| 💬 **ChittSathi** | Real-time interactive web application with ML integration, WebRTC, and MongoDB — built for SIH 2025 context | JavaScript · TensorFlow · MongoDB · WebRTC | [Live ↗](https://chitt-sathi.vercel.app) |
-| 💪 **DailyDost** | Full-stack habit & health tracker with 10 modules, secure auth, and 99.9% demo uptime — built in 24 hrs at JARVIS 2025 Hackathon | React · Node.js · MongoDB | 🏆 Runner-Up |
+| 🤖 **AUTC Neural Orchestrator** | Multi-agent AI system auto-routing queries across 6 specialized agents using Gemini 2.5 Flash — 70% reduction in manual delegation | TypeScript · React · Vite · Gemini API | [View ↗](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrat) |
+| 🚚 **LogiChain360** | Blockchain-integrated logistics platform for real-time shipment tracking and supply chain transparency | JavaScript · Polygon Blockchain | [View ↗](https://github.com/rangeshsha-Rookie/Logichain360) |
+| 💬 **ChittSathi** | Real-time interactive web app with ML integration, WebRTC, and MongoDB | JavaScript · TensorFlow · MongoDB · WebRTC | [Live ↗](https://chitt-sathi.vercel.app) |
+| 💪 **DailyDost** | Full-stack habit & health tracker — 10 modules, secure auth, 99.9% demo uptime — built in 24 hrs at JARVIS 2025 | React · Node.js · MongoDB | 🏆 Runner-Up |
 
 ---
 
@@ -92,22 +92,16 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/rangeshsha-Rookie">
-        <img src="https://github-readme-stats.vercel.app/api?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="Rangesh's GitHub Stats" />
-      </a>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </td>
-    <td>
-      <a href="https://github.com/rangeshsha-Rookie">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true" alt="Rangesh's Streak Stats" />
-      </a>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/rangeshsha-Rookie">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=3600&exclude_repo=" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -121,23 +115,13 @@ I don't just learn technologies — I apply them to real problems. My projects s
 <div align="center">
 
 <a href="https://github.com/users/rangeshsha-Rookie/achievements/quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/users/rangeshsha-Rookie/achievements/pull-shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/users/rangeshsha-Rookie/achievements/pair-extraordinaire">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rangeshsha-Rookie?tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" title="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw 🤠" title="Quickdraw — Closed an issue or PR within 5 min of opening" />
 </a>
 
+<br/>
+<sub>🤠 <b>Quickdraw</b> — Closed an issue or pull request within 5 minutes of opening</sub>
 <br/><br/>
-<a href="https://github.com/rangeshsha-Rookie?tab=achievements">View all achievements ↗</a>
+<a href="https://github.com/rangeshsha-Rookie?tab=achievements">🏅 View all achievements</a>
 
 </div>
 
