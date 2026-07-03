@@ -1,4 +1,4 @@
-<!-- Open to Work Banner — recruiter-visible in 2 seconds -->
+<!-- Open to Work Banner -->
 <div align="center">
 
 [![Open to Internships](https://img.shields.io/badge/🔬%20Open%20to-Research%20%26%20Analyst%20Internships-brightgreen?style=for-the-badge)](mailto:rengnavdev@gmail.com)
@@ -20,13 +20,14 @@
 
 ## 👋 Who I Am
 
-I'm **Rangesh Gupta** — a first-year B.E. Computer Engineering (Data Science) student at SLRTCE, Navi Mumbai 🇮🇳, building real-world AI systems at the intersection of **machine learning, data analytics, blockchain, and full-stack development**.
+**I build and ship AI systems.**
+Currently: UPI fraud detection SOC · multi-agent AI orchestration · blockchain supply chain — all live and deployed.
 
-I don't just learn technologies — I apply them to real problems. My projects span UPI fraud detection, multi-agent AI orchestration, supply chain transparency, and health tracking — all shipped and deployed.
+> **206 contributions** · **5 shipped projects** · **JARVIS 2025 Runner-Up** · Google Student Ambassador 2026
 
-> 🔬 **Currently targeting research internships** in AI/ML, optimization, and data-driven systems.
+First-year B.E. CMPN @ SLRTCE, Navi Mumbai 🇮🇳 · Open to research internships in AI/ML, optimization & data-driven systems.
 
-🌐 **Portfolio:** [rangeshgupta.dev](https://rangeshgupta.dev) &nbsp;|&nbsp; 💼 **LinkedIn:** [linkedin.com/in/rangesh-gupta](https://linkedin.com/in/rangesh-gupta) &nbsp;|&nbsp; 📧 [rengnavdev@gmail.com](mailto:rengnavdev@gmail.com)
+🌐 [rangeshgupta.dev](https://rangeshgupta.dev) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rangesh-gupta) &nbsp;|&nbsp; 📧 [rengnavdev@gmail.com](mailto:rengnavdev@gmail.com)
 
 ---
 
@@ -42,7 +43,7 @@ I don't just learn technologies — I apply them to real problems. My projects s
 | 📍 **Location** | Navi Mumbai, Maharashtra, India |
 
 ```text
-🔭 Building   →  Applied AI systems for fraud detection & supply chain optimization
+🔭 Building   →  AI systems for fraud detection & supply chain optimization
 🌱 Learning   →  MLOps · Advanced SQL · Google AI Studio · Research Methodology
 💬 Ask me     →  Python · TypeScript · Blockchain · Multi-Agent AI · Data Analytics
 ⚡ Fun fact   →  Won art competitions before writing my first line of code 🎨
@@ -52,36 +53,31 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 ## 🚀 Featured Projects
 
-| 🗂️ Project | 📝 What It Does | 🛠️ Stack | 🔗 |
+| 🗂️ Project | 📝 What It Does | 🛠️ Stack | 🔗 Links |
 |---|---|---|---|
-| 🛡️ **PhishGuard India v2.0** | AI-powered UPI fraud detection SOC platform — 17-signal Titan Engine, sub-200ms threat scoring, Polygon blockchain evidence logging, Chrome Extension MV3 | Python · Streamlit · MongoDB · Polygon | [View ↗](https://github.com/rangeshsha-Rookie/PhishGuard-India-v2-UPI-Fraud-Detection_Javris-2.0) |
-| 🤖 **AUTC Neural Orchestrator** | Multi-agent AI system auto-routing queries across 6 specialized agents using Gemini 2.5 Flash — 70% reduction in manual delegation | TypeScript · React · Vite · Gemini API | [View ↗](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrat) |
-| 🚚 **LogiChain360** | Blockchain-integrated logistics platform for real-time shipment tracking and supply chain transparency | JavaScript · Polygon Blockchain | [View ↗](https://github.com/rangeshsha-Rookie/Logichain360) |
-| 💬 **ChittSathi** | Real-time interactive web app with ML integration, WebRTC, and MongoDB | JavaScript · TensorFlow · MongoDB · WebRTC | [Live ↗](https://chitt-sathi.vercel.app) |
-| 💪 **DailyDost** | Full-stack habit & health tracker — 10 modules, secure auth, 99.9% demo uptime — built in 24 hrs at JARVIS 2025 | React · Node.js · MongoDB | 🏆 Runner-Up |
+| 🛡️ **PhishGuard India v2.0** | AI-powered UPI fraud detection SOC — 17-signal Titan Engine, sub-200ms threat scoring, Polygon blockchain evidence logging, Chrome Extension MV3 | Python · Streamlit · MongoDB · Polygon | [Code ↗](https://github.com/rangeshsha-Rookie/PhishGuard-India-v2-UPI-Fraud-Detection_Javris-2.0) · [Live App ↗](https://phishguard-india.streamlit.app) · [Frontend ↗](https://ramsethi-rangesh-javris-2-0.vercel.app) |
+| 🤖 **AUTC Neural Orchestrator** | Multi-agent AI auto-routing across 6 specialized agents (science, health, tech, business, education, accessibility) using Gemini 2.5 Flash — 70% reduction in manual delegation | TypeScript · React · Vite · Gemini API | [Code ↗](https://github.com/rangeshsha-Rookie/AUTC-Universal-Companion-Neural-Agent-Orchestrat) · [Live App ↗](https://ai.studio/apps/bd697bed-f814-4191-8b65-7f93c2ee2142) |
+| 🚚 **LogiChain360** | Blockchain-integrated logistics platform for real-time shipment tracking and tamper-proof supply chain transparency | JavaScript · Polygon Blockchain | [Code ↗](https://github.com/rangeshsha-Rookie/Logichain360) |
+| 💬 **ChittSathi** | Real-time interactive web app with ML integration, WebRTC, and MongoDB — built for SIH 2025 | JavaScript · TensorFlow · MongoDB · WebRTC | [Code ↗](https://github.com/rangeshsha-Rookie/ChittSathi) · [Live ↗](https://chitt-sathi.vercel.app) |
+| 💪 **DailyDost** | Full-stack habit & health tracker — 10 modules, secure auth, 99.9% demo uptime — built in 24 hrs | React · Node.js · MongoDB | [Code ↗](https://github.com/rangeshsha-Rookie/DailyDost) · 🏆 JARVIS Runner-Up |
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Languages**
+**⚡ Expert** — ship production code with these daily
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,c,cpp,html,css&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,mongodb,git&perline=5" />
 </p>
 
-**Frameworks & Libraries**
+**🔧 Proficient** — built real projects with these
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,nextjs,fastapi,tailwind,docker,gcp,firebase,vercel&perline=10" />
 </p>
 
-**Cloud, DevOps & Databases**
+**📚 Learning** — actively upskilling
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,azure,firebase,vercel,docker,mongodb,mysql&perline=7" />
-</p>
-
-**AI, Design & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,figma,github,git,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=go,java,linux,figma,vscode&perline=5" />
 </p>
 
 ---
@@ -91,10 +87,6 @@ I don't just learn technologies — I apply them to real problems. My projects s
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rangeshsha-Rookie&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
