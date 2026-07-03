@@ -93,15 +93,21 @@ I don't just learn technologies — I apply them to real problems. My projects s
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+      <a href="https://github.com/rangeshsha-Rookie">
+        <img src="https://github-readme-stats.vercel.app/api?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="Rangesh's GitHub Stats" />
+      </a>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/rangeshsha-Rookie">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rangeshsha-Rookie&theme=tokyonight&hide_border=true" alt="Rangesh's Streak Stats" />
+      </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+      <a href="https://github.com/rangeshsha-Rookie">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+      </a>
     </td>
   </tr>
 </table>
@@ -110,7 +116,7 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rangeshsha-Rookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=rangeshsha-Rookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/rangeshsha-Rookie)
 
 </div>
 
