@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+Computer+Engineering+(Data+Science)+%40+SLRTCE;Building+Applied+AI+for+Real-World+Problems+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;B.E.+CMPN+%40+SLRTCE+%7C+Class+of+2029;Building+Applied+AI+for+Real+Problems+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -106,7 +106,7 @@ I don't just learn technologies — I apply them to real problems. My projects s
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/rangeshsha-Rookie">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeshsha-Rookie&theme=tokyonight&hide_border=true&layout=donut&langs_count=8&cache_seconds=86400" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -114,11 +114,15 @@ I don't just learn technologies — I apply them to real problems. My projects s
 
 </div>
 
+---
+
+## 🏆 GitHub Achievements
+
 <div align="center">
 
-<a href="https://github.com/rangeshsha-Rookie">
-  <img src="https://github-profile-trophy.vercel.app/?username=rangeshsha-Rookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Trophies" />
-</a>
+![Stars](https://img.shields.io/github/stars/rangeshsha-Rookie?style=for-the-badge&color=gold&logo=github&label=Total+Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frangeshsha-Rookie&query=%24.public_repos&style=for-the-badge&color=0e75b6&logo=github&label=Public+Repos)
+![Followers](https://img.shields.io/github/followers/rangeshsha-Rookie?style=for-the-badge&color=7928ca&logo=github&label=Followers)
 
 </div>
 
