@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" role="img" aria-label="Typing">
+  <defs>
+    <style type="text/css">
+      .s1 { font: 700 22px "Fira Code", monospace; fill:#00C8FF; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="28" class="s1" text-anchor="middle">Hi 👋 I'm Rangesh Gupta</text>
+  <text x="50%" y="58" class="s1" text-anchor="middle">AI Builder | Data Analyst | Full-Stack Dev</text>
+  <text x="50%" y="88" class="s1" text-anchor="middle">Google Student Ambassador 2026</text>
+  <text x="50%" y="112" class="s1" text-anchor="middle">B.E. Computer Engineering (Data Science) @ SLRTCE</text>
+</svg>

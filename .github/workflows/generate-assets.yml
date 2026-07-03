@@ -1,0 +1,62 @@
+name: Generate README assets
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  write-assets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Create assets dir
+        run: mkdir -p assets
+
+      - name: Write typing.svg
+        run: |
+          cat > assets/typing.svg <<'SVG'
+          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" role="img" aria-label="Typing">
+            <defs><style>.s1{font:700 22px "Fira Code",monospace;fill:#00C8FF;}</style></defs>
+            <rect width="100%" height="100%" fill="transparent"/>
+            <text x="50%" y="28" class="s1" text-anchor="middle">Hi 👋 I'm Rangesh Gupta</text>
+            <text x="50%" y="58" class="s1" text-anchor="middle">AI Builder | Data Analyst | Full-Stack Dev</text>
+            <text x="50%" y="88" class="s1" text-anchor="middle">Google Student Ambassador 2026</text>
+            <text x="50%" y="112" class="s1" text-anchor="middle">B.E. Computer Engineering (Data Science) @ SLRTCE</text>
+          </svg>
+          SVG
+
+      - name: Write trophies.svg
+        run: |
+          cat > assets/trophies.svg <<'SVG'
+          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140" role="img" aria-label="Trophies">
+            <rect width="100%" height="100%" fill="transparent"/>
+            <g transform="translate(120,20)" fill="#FFD700" stroke="#B8860B" stroke-width="2">
+              <path d="M20 10 h40 v10 a20 20 0 0 1 -40 0 z"/>
+              <rect x="30" y="40" width="20" height="10" rx="2" fill="#B8860B"/>
+            </g>
+            <g transform="translate(340,20)" fill="#C0C0C0" stroke="#808080" stroke-width="2">
+              <path d="M20 10 h40 v10 a20 20 0 0 1 -40 0 z"/>
+              <rect x="30" y="40" width="20" height="10" rx="2" fill="#808080"/>
+            </g>
+            <g transform="translate(560,20)" fill="#CD7F32" stroke="#8B5A2B" stroke-width="2">
+              <path d="M20 10 h40 v10 a20 20 0 0 1 -40 0 z"/>
+              <rect x="30" y="40" width="20" height="10" rx="2" fill="#8B5A2B"/>
+            </g>
+          </svg>
+          SVG
+
+      - name: Commit and push assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/typing.svg assets/trophies.svg
+          git commit -m "chore: generate README assets" || echo "no changes to commit"
+          git push origin HEAD:main

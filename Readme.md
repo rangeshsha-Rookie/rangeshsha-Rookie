@@ -1,6 +1,8 @@
+<!-- markdownlint-disable MD033 MD036 MD041 MD045 MD060 -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Rangesh+Gupta;AI+Builder+%7C+Data+Analyst+%7C+Full-Stack+Dev;Google+Student+Ambassador+2026;Turning+Ideas+Into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/rangeshsha-Rookie/rangeshsha-Rookie/main/assets/typing.svg?sanitize=true" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=rangeshsha-Rookie&color=0e75b6&style=flat-square&label=Profile+Views" />
 
@@ -84,7 +86,7 @@ Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student f
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rangeshsha-Rookie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://raw.githubusercontent.com/rangeshsha-Rookie/rangeshsha-Rookie/main/assets/trophies.svg?sanitize=true" alt="Trophies" />
 
 </div>
 
@@ -153,8 +155,11 @@ Welcome to my GitHub! I'm **Rangesh Gupta** — a Computer Engineering student f
 <div align="center">
 
 ### ✍️ Dev Quote of the Day
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 *"Your GitHub profile is your developer landing page — make it count."*
 
 </div>
+
+<!-- markdownlint-enable MD033 MD036 MD041 MD045 MD060 -->
